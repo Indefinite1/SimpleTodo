@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1b1NAkfW3ZKRSY1FAGPHlr7RpZup8JOUp/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/68qoq92.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGIF](http://www.screentogif.com).
 
