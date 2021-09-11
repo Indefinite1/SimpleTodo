@@ -10,20 +10,20 @@ Time spent: 27 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and retrieved properly on app restart
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and retrieved properly on app restart
 
 The following **additional** features are implemented:
 
-* [ ] The app is completed as far a functionality goes, but it could use a bit of styling.
-* [ ] The app could also benefit from the addition of some images.
+* [x] The app is completed as far a functionality goes, but it could use a bit of styling.
+* [x] The app could also benefit from the addition of some images.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/68qoq92.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/68qoq92.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGIF](http://www.screentogif.com).
 
